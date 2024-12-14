@@ -1,0 +1,61 @@
+h1{
+    border-radius: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: blueviolet;
+    text-shadow: red;
+   
+}  
+.one{
+    position: absolute;
+  
+}
+.vj{
+    float: left;
+}
+.yo{
+    width: 1100px;
+    height: 200px;
+    margin-left: 300px;
+    background-color: rgb(26, 145, 119);
+    
+    
+}
+.two{
+    position: absolute;
+    top: 60%;
+    }
+.jo{
+   width: 1250px;
+   height: 200px;
+   margin-left: 25px;
+   }
+.po{
+    font-weight:lighter;
+    background-color:rgb(81, 138, 95);
+    width: 1100px;
+    height: 200px;
+    margin-left: 40px;
+}
+.fo{
+    position: absolute;
+    top: 130%;
+    margin-left: 600px;
+    
+}
+.hi{
+    position: absolute;
+    top: 150%;
+}
+.ho{
+    float:right;
+}
+.ho{
+    
+}
+.b{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: ;
+}
